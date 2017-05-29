@@ -12,3 +12,4 @@ python
 shell
 
 js
+js2
